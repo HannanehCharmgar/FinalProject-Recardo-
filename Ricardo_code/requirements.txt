@@ -1,0 +1,8 @@
+# google-generativeai==0.8.5
+jdatetime==5.2.0
+python-decouple==3.8
+python-telegram-bot==22.0
+python-telegram-bot[job-queue]
+regex==2024.11.6
+requests==2.32.3
+google-genai==1.62.0
